@@ -4,7 +4,9 @@
 
 由于大多数相关视频目前被分散地存档在 Telegram 的几个频道上，很难不保证这个优质频道在某一刻被互联网抹去了最后存在的证据。
 
-此 Repo 用于存档我能找到的部分视频。
+此 Repo 用于存档我能找到的部分视频，由于 Github 的 Git 25 Mb/File 的限制，视频上传在[本 Repo 的 Release 页面](https://github.com/5Erb6rBGCQn/OkButSoWhatArchive/releases)
+
+[下载视频](https://github.com/5Erb6rBGCQn/OkButSoWhatArchive/releases)
 
 ## 目前已归档视频
 - [x] 为什么我们讨厌缴税？
