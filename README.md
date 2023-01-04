@@ -15,6 +15,7 @@
 - [x] 为什么我们的教育培育不出性感的公民？
 - [x] 非此即彼：一种抑郁的来源
 - [x] 谣言：被污名化的大众消息
+- [x] 影視里的啓蒙時刻：不徹底的懷疑是反抗性的 - 视频目前在 [Youtube](https://www.youtube.com/watch?v=TPaBso530_M) 还可以正常观看
 - [ ] 推特不是法外之地：中国如何海外治理言論 - 视频目前找不到公开存档，仅有 [文字稿](https://github.com/5Erb6rBGCQn/OkButSoWhatArchive/blob/main/TwitterGFWAndCCP.md)
 
 其余还有一两期 Podcast 质量也十分出众，印象中似乎是关于人工智能和伦理的讨论，可惜没有找到。
